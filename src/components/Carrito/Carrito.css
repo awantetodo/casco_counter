@@ -1,0 +1,14 @@
+.contenedorCarrito{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.comingSoon{
+    text-decoration: underline;
+    font-size: 32px;
+    font-style: oblique;
+    font-weight: bold;
+    color: rgb(19, 113, 113);
+}
+

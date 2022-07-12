@@ -1,0 +1,51 @@
+.contenedorDetalles {
+    background-color: white;
+    border: 0.5px solid #a1a1a14f !important;
+    border-top-right-radius: 25px !important;
+    border-bottom-left-radius: 25px !important;
+    padding: 20px;
+}
+
+.card.itemCarrito {
+    border: none !important;
+    border-top-right-radius: none !important;
+    border-bottom-left-radius: none !important;
+    border-bottom: 0.5px solid #a1a1a14f !important;
+    text-align: left !important;
+}
+
+.unid {
+    width: 100%;
+    position: relative;
+    text-align: center;
+}
+
+.textUnid {
+    text-align: left !important;
+}
+
+.inputUnid {
+    width: 50px !important;
+}
+
+.imageThumb {
+    width: 100%;
+}
+
+.itemCarrito .favorito,
+.itemCarrito .favorito svg {
+    color: red !important;
+}
+
+.colTotales {
+    border-bottom: 0.5px solid #1d175c13;
+    padding: 10px 0;
+}
+
+.totalText {
+    text-align: left;
+}
+
+.totalPrecio {
+    text-align: right;
+}

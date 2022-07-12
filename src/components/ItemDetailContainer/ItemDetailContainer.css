@@ -1,0 +1,36 @@
+.colPadding{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.colPadding h3{
+    margin-top: 5px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.body{ 
+    background-color: #edebeb;
+}
+.card input{ 
+    text-align: center;
+}
+
+.buttonCarrito{
+    background-color: #e12257 !important;
+    border-color: #e12257 !important ;
+    font-size: x-small !important;
+}
+
+.buttonRestart{
+    background-color: blue !important;
+    border-color: blue !important ;
+    font-size: x-small !important;
+}
+
+.tituloPrincipal{
+    color: #1d175c;
+    font-weight: bold;
+}

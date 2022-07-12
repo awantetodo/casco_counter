@@ -1,0 +1,63 @@
+.imagenPrincipal img{
+    margin: auto;
+    border-radius: 25px;
+    height: 450px;
+}
+
+.imagenPrincipal h3{
+    color: #2744d8;
+    text-shadow: 1px 1px white;
+}
+
+.imagenPrincipal p{
+    color: rgb(247, 93, 191);
+    text-shadow: 1px 0.5px black;
+}
+
+.productoDescripcion{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    border-radius: 25px;
+    background-color: white;
+    border: 0.5px solid #a1a1a14f;
+}
+
+.productoDescripcion h2.categoria{
+    font-size: 15px;
+    color: #e12257;
+}
+.productoDescripcion h1{
+    font-size: 24px;
+    font-weight: bold;
+}
+.productoDescripcion p{
+    font-size: 15px;
+    text-align: justify;
+}
+.productoDescripcion .precio{
+    font-size: 24px;
+    font-weight: bold;
+    color: #e12257;
+}
+.productoDescripcion .card{
+    border: none;
+}
+
+.bodyCard{
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+
+.mensaje {
+    display: flex;
+    justify-content: center;
+}
+
+.mensaje p{
+    margin:auto;
+    width: auto;
+    height: 2px;
+    font-size: 10px;
+}

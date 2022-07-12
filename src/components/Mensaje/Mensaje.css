@@ -1,0 +1,9 @@
+.noStock{
+    font-weight: bold;
+    color:red;
+}
+
+.carritoVacio{
+    font-weight: bold;
+    color:green;
+}

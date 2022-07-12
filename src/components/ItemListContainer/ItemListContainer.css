@@ -1,0 +1,11 @@
+.contenedor{
+    border-top: 1px solid gray;
+    margin: 5px ;
+}
+
+.contenedor h3{
+    margin-top: 5px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
